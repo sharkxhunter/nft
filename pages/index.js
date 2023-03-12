@@ -17,6 +17,7 @@ export default function Index({ data }) {
         <nav className="doge-home_nav-wrapper">
           <DogeCards/>
           <ZoraKymCard/>
+          <div>Market Places</div>
         </nav>
       </section>
       <DogeFooter location="index hide-mobile"/>
