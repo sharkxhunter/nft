@@ -3,7 +3,7 @@ import randomColor from './randomColor'
 const characterRandomColor = (title, element, className) => {
   // RETURN CLASS
   let wrapperClass = className !== undefined ? ` class="${className}"` : ''
-  // TITLE
+  // HEADER
   const titleArray = title.split('')
   let newTitle = []
   titleArray.forEach(char => {
