@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import DogeHead from '../components/doge-head'
 import Stroke from '../public/svg/brush-stroke.svg'
+//import
 
 const GoHome = () => {
   return (
